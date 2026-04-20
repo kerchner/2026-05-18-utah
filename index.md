@@ -338,7 +338,7 @@ Please use the button below to link to the registration form.
 </p>
 
 <p class="text-center">
-  <a href="https://forms.gle/kn4EBcRBvGBCC7PW7">
+  <a href="https://forms.gle/kn4EBcRBvGBCC7PW7" target="_blank">
     <button type="button" class="btn btn-info">Registration for Data Carpentry Genomics @ University of Utah May 18-19, 2026</button>
   </a>
 </p>

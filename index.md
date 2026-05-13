@@ -470,24 +470,13 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-<p>
-  To participate in a
-  {% if site.carpentry == "swc" %}
-  Software Carpentry
-  {% elsif site.carpentry == "dc" %}
-  Data Carpentry
-  {% elsif site.carpentry == "lc" %}
-  Library Carpentry
-  {% endif %}
-  workshop,
-  you will need access to software as described below.
-  In addition, you will need an up-to-date web browser.
+<p>The <a href="https://gwu-libraries.github.io/genomics-workshop/index.html#setup">setup instructions for the Data Carpentry Genomics workshop</a> can be found at <a href="https://gwu-libraries.github.io/genomics-workshop/">the workshop overview site</a> under "Required additional software".  <b>You do not need to proceed to "Option A" or "Option B"</b>.  In addition, you will need an up-to-date web browser.
 </p>
 <p>
-  We maintain a list of common issues that occur during installation as a reference for instructors
-  that may be useful on the
+  A list of common issues that occur during installation can be found on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
+
 
 {% comment %}
 For online workshops, the section below provides:

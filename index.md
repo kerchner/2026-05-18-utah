@@ -470,7 +470,7 @@ please preview your site before committing, and make sure to run
 
 <h2 id="setup">Setup</h2>
 
-<p>The <a href="https://gwu-libraries.github.io/genomics-workshop/index.html#setup">setup instructions for the Data Carpentry Genomics workshop</a> can be found at <a href="https://gwu-libraries.github.io/genomics-workshop/">the workshop overview site</a> under "Required additional software".  <b>You do not need to proceed to "Option A" or "Option B"</b>.  In addition, you will need an up-to-date web browser.
+<p>The <a href="https://datacarpentry.github.io/genomics-workshop/index.html#setup">setup instructions for the Data Carpentry Genomics workshop</a> can be found at <a href="https://datacarpentry.github.io/genomics-workshop/">the workshop overview site</a> under "Required additional software".  <b>You do not need to proceed to "Option A" or "Option B"</b>.  In addition, you will need an up-to-date web browser.
 </p>
 <p>
   A list of common issues that occur during installation can be found on the
